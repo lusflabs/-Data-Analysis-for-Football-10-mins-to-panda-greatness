@@ -1,0 +1,4 @@
+# in order to get the panda you have to import the panda
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
